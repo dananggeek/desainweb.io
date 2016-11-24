@@ -1,0 +1,115 @@
+
+.warna-tomato{
+  background-color:  #f44336;
+  border-color: #0FA6A1;
+  box-shadow:1px 1px 3px 1px  gray;
+
+}
+.warna-tomato-active{
+  color: #FFF;
+  background-color: #e53935;
+
+}
+.warna-tail{
+  background-color:  #004d40;
+  border-color: #0FA6A1;
+  box-shadow:1px 1px 3px 1px  gray;
+
+}
+.warna-tail-active{
+  color: #FFF;
+  background-color:#00695c;
+
+}
+.navbar-teal{
+  background:#009688;color:red;
+
+}
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-new {
+  <!-- warna Tomato-->
+
+}
+
+.navbar-new .navbar-brand,
+.navbar-new .navbar-brand:hover,
+.navbar-new .navbar-brand:focus {
+    color: white;
+}
+
+.navbar-new .navbar-nav > li > a {
+    color: #FFF;
+}
+
+.navbar-new .navbar-nav > li > a:hover,
+.navbar-new .navbar-nav > li > a:focus {
+    background-color: #e53935;
+}
+
+.navbar-new .navbar-nav > .active > a,
+.navbar-new .navbar-nav > .active > a:hover,
+.navbar-new .navbar-nav > .active > a:focus {
+     <!-- Warna Active-->
+}
+
+.navbar-new .navbar-text {
+    color: #FFF;
+}
+
+.navbar-new .navbar-toggle {
+    border-color: #0FA6A1;
+}
+
+.navbar-new .navbar-toggle:hover,
+.navbar-new .navbar-toggle:focus {
+    background-color: #0FA6A1;
+}
+
+.navbar-new .navbar-toggle .icon-bar {
+    background-color: #FFF;
+}
+.textputih{
+  color:white;
+}
+.kolom{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-bottom: 30px;
+
+  color:gray;
+  background-color: white; box-shadow:0px 0px 2px 0px  gray;
+  border-radius: 2px;
+
+}
+.kolom > img{
+  width :100%;
+  height: 180px;
+}
+.gambar{
+  border-radius:0%;
+  margin-top: 5px;
+}
+.shadowgray{
+  box-shadow:0px 0px 3px 0px  gray;
+}
+.atas-bawah{
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.garis-bawah{
+  border-bottom:  2px solid whitesmoke;margin-top: 5px;
+}
+.borderr{
+  box-shadow:0px 1px 2px 0px  gray;
+  background-color:white; /*#   29b6f6  ->  4fc3f7  -> shadow 03a9f4 */
+  color:gray;
+
+  padding-bottom:10px;03a9f4
+}
+.text-gray{
+  color:gray;
+}
+ 
